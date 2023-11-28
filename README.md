@@ -5,7 +5,7 @@
 
 - 👯 Busco colaborar con diferentes proyectos donde pueda aplicar mis conocimientos. 
 
-- 🌱 Me encuentro estudiando Html, Css, JavaScript y React 
+- 🌱 Programador Full-Stack: Html, Css, JavaScript, ReactJS, NodeJS, MongoDB 
 
 - 📫 Para contactarme, mi correo es agusmachado@gmail.com 
 
