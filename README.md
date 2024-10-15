@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Agustín Machado</h1>
-<h3 align="center">Estudio para ser desarrollador fontend de Argentina</h3>
+<h3 align="center">Soy desarrollador fontend</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agusmachado&label=Profile%20views&color=0e75b6&style=flat" alt="agusmachado" /> </p>
 
